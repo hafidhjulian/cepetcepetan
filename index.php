@@ -1,5 +1,6 @@
 <?php
-echo "Selamat datang";
-echo "Hacktoberfest by github";
-echo "Hacktoberfest by Digital Ocean";
-echo "Hacktoberfest by Twilio";
+echo "Selamat datang\n";
+echo "Hacktoberfest by github\n";
+echo "Hacktoberfest by Digital Ocean\n";
+echo "Hacktoberfest by Twilio\n";
+echo "Hacktoberfest is best";
